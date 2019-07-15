@@ -25,7 +25,7 @@ const ExpenseForm = ({
                 <div className="form-group">
                     <label htmlFor="amount">amount</label>
                     <input
-                        type="text"
+                        type="number"
                         className="form-control"
                         id="amount"
                         name="amount"
